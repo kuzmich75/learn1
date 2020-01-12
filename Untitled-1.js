@@ -1,6 +1,6 @@
 console.log("Hello World!");
 // <script>
-// console.log("Hello World!");
+console.log("Hello World!");
 // </script>
 let persone = {
     name: "dima",
