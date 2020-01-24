@@ -2,8 +2,8 @@
 let money = prompt("Ваш бюджет на месяц?", "20000"),
     time = prompt("Введите дату в формате YYYY-MM-DD", "1975-02-16"),
     appData = {
-    budget: "money", 
-    date: "time", 
+    budget: money, 
+    date: time, 
     expenses: {},
     optionalExpenses: {},
     income: [],
